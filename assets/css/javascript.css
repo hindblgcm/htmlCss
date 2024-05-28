@@ -9,7 +9,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 5px;
-    border: solid black 3px;
+    border: solid black 1px;
     margin: 20px;
     box-shadow: 10px 5px 5px yellow;
 
@@ -44,7 +44,7 @@ header ul a {
 
 .section-one {
     margin-top: 10px;
-    border: solid black 3px;
+    border: solid black 1px;
     margin: 20px;
     display: flex;
     box-shadow: 10px 5px 5px yellow;
@@ -87,6 +87,7 @@ header ul a {
     background-color: grey;
     width: 100vw;
     height: 100vh;
+    flex-direction: column;
 
 }
 
@@ -102,6 +103,13 @@ header ul a {
     width: 200px;
 }
 
+button {
+    background-color: yellow;
+    padding: 20px;
+    border: solid black 2px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px rgb(186, 175, 175);
+}
 
 
 

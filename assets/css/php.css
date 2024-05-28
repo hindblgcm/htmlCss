@@ -9,7 +9,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 5px;
-    border: solid black 3px;
+    border: solid black 1px;
     margin: 20px;
     box-shadow: 10px 5px 5px gray;
 
@@ -44,7 +44,7 @@ header ul a {
 
 .section-one {
     margin-top: 10px;
-    border: solid black 3px;
+    border: solid black 1px;
     margin: 20px;
     display: flex;
     box-shadow: 10px 5px 5px gray;
